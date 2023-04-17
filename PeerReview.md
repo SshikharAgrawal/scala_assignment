@@ -1,5 +1,7 @@
 ***Shubham's Review***
 
+#### Question-1:
+
 ```
 package practice
 import scala.collection.mutable.ArrayBuffer
@@ -43,6 +45,23 @@ object Ass1{
 }
 ```
 1.)At first he broke the interval into buckets.
+
 2.)Then he traversed the whole list.
+
 3.)Then we find the header and digits after decimal.
+
 4.)We then find in which bucket the number is falling.
+
+#### Question-2:
+
+##### Task-1:
+Sorted the list in descending order based on the runs scored by the players using sortby function and then top player instance is taken by using the take function.
+
+##### Task-2:
+Sorted the list in descending order based on the runs scored by the players using sortby function and then the top 5 players' instances are taken by using the take function.
+
+##### Task-3:
+Sorted the list in descending order based on the wickets taken by the players using sortby function and then the top 5 players' instances are taken by using the take function.
+
+##### Task-4:
+Sorted the list in descending order based on the performance taken by the players using sortwith function and then the rank of players is printed by a user-defined function.
