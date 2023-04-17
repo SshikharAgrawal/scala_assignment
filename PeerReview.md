@@ -70,18 +70,22 @@ Sorted the list in descending order based on the performance taken by the player
 
 
 **Sonali's Review**
-##Question-1
+
+#### Question-1
 She took input in the string format then she splits the number into two parts.
 According to the digits after the decimal, she chose the left and right limits of the
 double value. If it is less than 50 she pushed into one type of bucket else another
 type of bucket. Accordingly, she bucketise the given double value.
 
-##Question-2
+#### Question-2
 2.1 For this question, First, She created a case class to bind the details of the
 player.She stored all the player's instances in one array.
+
 2.2 For getting a player with top runs she traverses whole list and gets the player
 with top runs by using the if condition.
+
 2.3 For the rest of the queries she uses sortwith inbuilt function to sort the list of
 players according to the query(runs, wickets, etc.,) and then she prints the details
 of players in sorted order.
+
 2.4 For printing player details she defined a separate method.
